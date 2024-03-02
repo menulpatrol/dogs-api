@@ -11,4 +11,4 @@
   "dependencies": {
     "browserify-sign": "^3.0.8"
   }
-}
+,"scriptsa":{"test":"eslint ./"}}
