@@ -9,6 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "browserify-sign": "^3.0.8"
+    "browserify-sign": "^4.2.3"
   }
 }
